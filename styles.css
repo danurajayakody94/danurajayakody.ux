@@ -131,27 +131,11 @@
     border-bottom-left-radius: 50%;
   }
 
-  /* Actual image holder */
-.image-blob {
-  position: absolute;
-  top: 0;
-  left: 20px;
-  width: 420px;
-  height: 520px;
-  overflow: hidden;
-  border-radius: 58% 42% 63% 37% / 41% 44% 56% 59%;
-  z-index: 1;
-  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.18);
-}
-
-/* Image fitting */
-.hero-img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center top;
-  display: block;
-}
+  yellow-blob img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
   
 
   /* Resume Specific Layout */
