@@ -131,7 +131,7 @@
     border-bottom-left-radius: 50%;
   }
 
-  yellow-blob img{
+  .yellow-blob img{
     width: 100%;
     height: 100%;
     object-fit: cover;
