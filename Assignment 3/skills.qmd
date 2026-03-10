@@ -1,0 +1,91 @@
+## What Makes  
+## Us <span class="highlight-text">Unique</span>
+
+Unlock your professional growth with essential soft skills to communicate, lead, and succeed.
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.callout-note appearance="simple" collapse="false"}
+:class: feature-note
+
+::: {.feature-icon}
+📊
+:::
+
+::: {.feature-title}
+Strategic Analysis
+:::
+
+::: {.feature-text}
+Learn from industry professionals with practical insights into market trends and data.
+:::
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.callout-note appearance="simple" collapse="false"}
+:class: feature-note
+
+::: {.feature-icon}
+💻
+:::
+
+::: {.feature-title}
+Financial Modeling
+:::
+
+::: {.feature-text}
+Access financial insights anytime, anywhere, and learn to forecast at your own pace.
+:::
+:::
+
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.callout-note .feature-note appearance="simple" collapse="false"}
+
+::: {.feature-icon}
+⚙️
+:::
+
+::: {.feature-title}
+Project Management
+:::
+
+::: {.feature-text}
+Engage with hands-on exercises, case studies, and operational role-playing scenarios.
+:::
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.callout-note appearance="simple" collapse="false"}
+:class: feature-note
+
+::: {.feature-icon}
+🗣️
+:::
+
+::: {.feature-title}
+Leadership \& Communication
+:::
+
+::: {.feature-text}
+Develop essential skills to boost team confidence and unlock new corporate opportunities.
+:::
+:::
+
+:::
+
+::::
